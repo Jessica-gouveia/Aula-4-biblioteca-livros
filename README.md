@@ -33,4 +33,4 @@ Ter conseguido fazer esse exercício depois de eu achar que não iria conseguir 
 
 Agora fica o desafio , será que meu readme essa semana vai aparecer os gifs ou vou continuar sendo trolada? Kkkk fica aqui a reflexão!
 
-! [ Woman Programming] (vector-female-developer
+! [ Woman Programming] (vector-female-developer)
